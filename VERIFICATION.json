@@ -1,0 +1,21 @@
+{
+  "release": "2026.10.17",
+  "status": "PASS",
+  "platform": "Windows x64",
+  "frozen": true,
+  "relocated_portable_self_test": "PASS",
+  "checks": [
+    "NumPy与Pillow",
+    "SciPy降噪增强",
+    "跨边界切片框",
+    "B-Scan采样点保留且纵坐标固定为用户设置",
+    "CAD框选标注的完整包含和反向拖动筛选",
+    "框选复选框及Q键模式切换界面测试",
+    "同步标注为每通道独立记录",
+    "B-Scan/C-Scan标注框按同一桩号范围映射到对应通道",
+    "B-Scan/C-Scan使用同一源桩号边界且多通道微偏差取外边界",
+    "导出纵轴自定义米制刻度、反向轴、多通道和切片；原数据区像素及坐标不变",
+    "Tk界面初始化"
+  ],
+  "executable_sha256": "86018118c5df7efc130ed95522d4c7b0ccefcfc438f422c4b3eed186d7c3061f"
+}

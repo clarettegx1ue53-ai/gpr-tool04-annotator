@@ -1,0 +1,12 @@
+# Portable binaries are distributed as GitHub Release assets.
+portable/
+*.zip
+*.log
+__pycache__/
+*.pyc
+# Do not publish user data or annotation projects.
+*.csv
+*.npy
+*.npz
+annotations*.json
+project.json

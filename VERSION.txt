@@ -1,0 +1,3 @@
+Distribution: GPR Tool04 Windows x64 portable
+Release: 2026.10.17
+Contents: Windows application, bundled runtime, documentation, dependency notices
